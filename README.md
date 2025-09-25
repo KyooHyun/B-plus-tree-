@@ -1,2 +1,2 @@
 # B-plus-tree-
-B+Tree를 구현해보았다. 
+I'd made a B+Tree with C++
